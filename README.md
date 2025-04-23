@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on machin learning products for small business!<br>👯 I’m looking to collaborate on AI projects involving model evaluation, data preprocessing, and real-world deployment<br>🤝 I’m looking for help with refining domain adaptation techniques and exploring the best ways to integrate multimodal data into lightweight models.<br>🌱 I’m currently learning more about retrieval-augmented generation (RAG), open-weight model fine-tuning, and best practices for building scalable AI pipelines.<br>⚡ Fun fact: I am a keyboard lover.<br><br>
+💫 About Me<br>
+🔭 I’m currently seeking a contract position or internship in Project Management, especially in AI-related fields.<br>
+👯 I’m excited to collaborate on AI projects with a focus on real-world deployment and practical impact.<br>
+🤝 I’m open to mentorship or guidance on domain adaptation techniques and exploring the best ways to integrate multimodal data.<br>
+🌱 I’m actively learning about Retrieval-Augmented Generation (RAG) and best practices for building scalable AI pipelines.<br>
+⚡ Fun fact: I’m a keyboard enthusiast and love customizing mechanical keyboards.<br><br>
 
 
 ## 🌐 Socials:
